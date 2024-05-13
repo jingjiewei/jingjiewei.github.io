@@ -3,11 +3,23 @@
     "apps": [],
     "details": [
       {
-        "appIDs": "838892AGLM.com.easycrypto.app.DEV",
-        "path": [
-          "/appcallback/*"
+        "appIDs": [
+          "838892AGLM.com.easycrypto.app.DEV"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
         ]
       }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "838892AGLM.com.easycrypto.app.DEV"
     ]
   }
 }
