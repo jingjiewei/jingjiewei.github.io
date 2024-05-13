@@ -6,9 +6,9 @@
           "838892AGLM.com.easycrypto.app.DEV",
           "838892AGLM.com.easycrypto.app.QA"
         ],
-        "components":[
+        "path":[
           {
-            "/":"/test-site/appcallback/*",
+            "/":"/appcallback/*",
             "comment":"Matches any URL with a path that starts with /appcallback/"
           }
         ]
