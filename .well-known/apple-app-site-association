@@ -1,16 +1,11 @@
 {
-  "applinks":{
-    "details":[
+  "applinks": {
+    "apps": [],
+    "details": [
       {
-        "appIDs":[
-          "838892AGLM.com.easycrypto.app.DEV",
-          "838892AGLM.com.easycrypto.app.QA"
-        ],
-        "components":[
-          {
-            "/":"/appcallback/*",
-            "comment":"Matches any URL with a path that starts with /appcallback/"
-          }
+        "appIDs": "838892AGLM.com.easycrypto.app.DEV",
+        "path": [
+          "/appcallback/*"
         ]
       }
     ]
