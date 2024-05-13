@@ -1,13 +1,14 @@
 {
   "applinks": {
     "apps": [],
+    "defaults": { "percentEncoded": false },
     "details": [
       {
         "appIDs": [
           "838892AGLM.com.easycrypto.app.DEV"
         ],
         "paths": [
-          "*"
+          "*","/"
         ],
         "components": [
           {
