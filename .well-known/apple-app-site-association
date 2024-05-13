@@ -1,26 +1,18 @@
 {
   "applinks": {
     "apps": [],
-    "defaults": { "percentEncoded": false },
     "details": [
       {
         "appIDs": [
-          "838892AGLM.com.easycrypto.app.DEV"
-        ],
-        "paths": [
-          "*","/"
+          "838892AGLM.com.easycrypto.app.DEV",
+          "838892AGLM.com.easycrypto.app.QA"
         ],
         "components": [
           {
-            "/": "/*"
+            "/": "/appCallback/*"
           }
         ]
       }
-    ]
-  },
-  "webcredentials": {
-    "apps": [
-      "838892AGLM.com.easycrypto.app.DEV"
     ]
   }
 }
