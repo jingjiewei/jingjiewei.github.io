@@ -13,13 +13,12 @@
           }
         ]
       }
-    ],
-    "webcredentials": {
-      "apps": [
-        "838892AGLM.com.easycrypto.app.DEV",
-        "838892AGLM.com.easycrypto.app.QA"
-      ]
-    }
-  
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "838892AGLM.com.easycrypto.app.DEV",
+      "838892AGLM.com.easycrypto.app.QA"
+    ]
   }
 }
